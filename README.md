@@ -15,7 +15,7 @@
 - **Strategy** - всеки студент използва различна стратегия за пристигане
 
 ## Компилиране:
-````mvn compile```
+```mvn compile```
 
 ## Стартиране:
 ```java -cp target\classes com.university.Demo```
