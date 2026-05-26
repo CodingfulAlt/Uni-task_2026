@@ -22,4 +22,5 @@
 или от Demo.java
 
 ## Резултат:
-<img width="1785" height="532" alt="image" src="https://github.com/user-attachments/assets/7df03572-2649-4a3b-b4d0-be1995ba3cdd" />
+<img width="1737" height="624" alt="image" src="https://github.com/user-attachments/assets/489bcfbf-01c8-4e72-9d62-5e8c737f8187" />
+
